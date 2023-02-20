@@ -69,8 +69,6 @@ h1, h2, h3, h4, p {
 #gift-img-hot{
     background-size: contain;
     background-repeat: no-repeat;
-    height: 200px ;
-    width: 300px ;
 }
 #gift-img-hot:hover {
     background-image: url(images/giphy1.gif); 
@@ -90,6 +88,11 @@ h1, h2, h3, h4, p {
     background-repeat: no-repeat;
 }
 
+#gift-img-cheers{
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
 #footer {
     font-style: italic;
     width: 400px;
